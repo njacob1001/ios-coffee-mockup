@@ -11,7 +11,7 @@ import SwiftUI
 struct coffe_mockupApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Mockup3D()
         }
     }
 }
